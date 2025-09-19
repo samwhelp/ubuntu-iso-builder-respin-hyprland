@@ -51,7 +51,7 @@ REF_BUILD_VERSION="25.04"
 ## > for iso file name
 ##
 
-REF_BUILD_SUBJECT_NAME="ubuntu-labwc"
+REF_BUILD_SUBJECT_NAME="ubuntu-hyprland"
 
 
 
@@ -62,7 +62,7 @@ REF_BUILD_SUBJECT_NAME="ubuntu-labwc"
 ## > for info
 ##
 
-REF_BUILD_SUBJECT_TITLE="Ubuntu Labwc"
+REF_BUILD_SUBJECT_TITLE="Ubuntu Hyprland"
 
 
 

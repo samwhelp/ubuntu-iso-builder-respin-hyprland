@@ -8,10 +8,11 @@
 
 
 ##
-## ## Package / Desktop Environment / Labwc
+## ## Package / Desktop Environment / Hyprland
 ##
 
-labwc
+hyprland
+hyprpaper
 
 
 xwayland
@@ -44,11 +45,6 @@ mako-notifier
 policykit-1-gnome
 
 
-grimshot
-screengrab
-xfce4-screenshooter
-
-
 kitty
 foot
 xfce4-terminal
@@ -64,6 +60,16 @@ mousepad
 pavucontrol
 pulseaudio
 mate-media
+
+
+grimshot
+#screengrab
+#xfce4-screenshooter
+
+
+brightnessctl
+brightness-udev
+
 
 
 
